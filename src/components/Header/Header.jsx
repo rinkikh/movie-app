@@ -10,8 +10,8 @@ const Header = () => {
             <Link to="/">
             <div className='logo' > Movie App 
               </div>
-
             </Link>
+            
             <div className='user-image'>
                 <img src={user} alt='user' />    
                        </div>
